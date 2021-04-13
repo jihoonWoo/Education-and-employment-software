@@ -1,4 +1,5 @@
 # About repository
+This repository includes the transformed data and program code ("Preparation and setup.ipynb").
 
 ## About data
 The data was transformed by **ABS-education-and-employment-1410.0 (doi)** where it contains percentages of Australians in Highest Year of School Completed in 2016
